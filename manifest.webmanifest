@@ -1,6 +1,6 @@
 {
-    "name": "FarosMiniAR",
-    "short_name": "FarosMiniAR",
+    "name": "PressAR",
+    "short_name": "PressAR",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",

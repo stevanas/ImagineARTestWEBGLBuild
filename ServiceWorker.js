@@ -1,4 +1,4 @@
-const cacheName = "METACOSMOI-FarosMiniAR-1.0.0";
+const cacheName = "METACOSMOI-PressAR-1.0.0";
 const contentToCache = [
     "Build/ARWebGLBuilds.loader.js",
     "Build/ARWebGLBuilds.framework.js",
